@@ -38,7 +38,7 @@ Reference figures (committed) are in `figures/` for comparison.
 
 `data/raw/FRB20240114A_Morphology_Public_Dataset_20240312CST/All_Drifting_Burst-Cluster_Table.xlsx`
 
-Published by Zhang et al. (2026), [DOI 10.3847/1538-4357/adc882](https://doi.org/10.3847/1538-4357/adc882), hosted on Science Data Bank (scidb.cn). Redistributed here under the dataset's public-release terms for reproducibility.
+Published by Zhang et al. (2026), [DOI 10.3847/1538-4357/ae314a](https://doi.org/10.3847/1538-4357/ae314a), hosted on Science Data Bank (scidb.cn). Redistributed here under the dataset's public-release terms for reproducibility.
 
 ## Headline results
 
