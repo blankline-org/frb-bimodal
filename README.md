@@ -6,6 +6,8 @@ Code and data to reproduce the discovery of bimodal drift rate structure in the 
 **Built with:** [Primus v0.2](https://www.blankline.org/research/primus)
 **Author:** Santosh Arron, Blankline (2026)
 
+**Try it on browser:** [huggingface.co/spaces/blankline/frb-bimodal-clustering](https://huggingface.co/spaces/blankline/frb-bimodal-clustering)
+
 ---
 
 ## What this is
